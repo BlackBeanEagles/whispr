@@ -1,0 +1,98 @@
+{
+  "scenes": [
+    {
+      "title": "THE OBJECTS HAVE QUESTIONS",
+      "label": "CASE NO. 001  /  HRIDYA JAIN",
+      "image": "01-home.png",
+      "narration": "A portfolio walked into an interrogation room. Four ordinary objects were the witnesses. Their testimony became The Objects Have Questions."
+    },
+    {
+      "title": "DETECTIVE MUG CLOCKS IN",
+      "label": "ANIMATED REENACTMENT  /  NO MUGS WERE HARMED",
+      "cartoon": true,
+      "image": "01-home.png",
+      "bubble": "I FOUND THE SUSPECT. IT'S A PORTFOLIO.",
+      "narration": "Detective Mug arrived unpaid, overcaffeinated, and certain every object had a motive. First suspect: the portfolio itself."
+    },
+    {
+      "title": "THE NOTEBOOK TESTIFIES",
+      "label": "EXHIBIT A  /  CREATIVE JUDGMENT",
+      "image": "02-notebook.png",
+      "crop": [365, 25, 1145, 705],
+      "narration": "The notebook saw Hridya reject idea after idea. The test was simple: could it be filmed, and would someone actually use it?"
+    },
+    {
+      "title": "THE MICROPHONE OBJECTS",
+      "label": "DRAMATIC REENACTMENT  /  STOCK FOOTAGE",
+      "stock": "stock-mic.mp4",
+      "card": "I WAS READY FOR MY SOLO. THEN THE WORDS WENT STRAIGHT INTO THE BUILD.",
+      "narration": "The microphone was ready for its big break. Wispr Flow got the speaking role."
+    },
+    {
+      "title": "THE FIRST BRIEF WAS SPOKEN",
+      "label": "EXHIBIT B  /  WISPR FLOW",
+      "image": "03-microphone.png",
+      "crop": [365, 25, 1145, 705],
+      "narration": "Hridya dictated the first build brief with Wispr Flow into Emergent. Speaking let the whole idea come out in one natural pass, ready to build and revise."
+    },
+    {
+      "title": "THE WORDS BECAME A LIVE SITE",
+      "label": "FROM SPOKEN BRIEF TO WORKING PORTFOLIO",
+      "quote": "Build a cinematic comedy portfolio. Four everyday objects act as witnesses, each telling a funny but truthful story about the making of this project.",
+      "narration": "That spoken brief was the start. The result is a live portfolio you can question, hear aloud, and explore, instead of another polished PDF."
+    },
+    {
+      "title": "NOW THE STUDIO IS OPEN",
+      "label": "A TOOL ANYONE CAN USE",
+      "image": "07-studio.png",
+      "narration": "Then the format became a public tool. Anyone can give an object a short story and an instruction, and share its case file with a QR code."
+    },
+    {
+      "title": "OBJECTION: IT IS USEFUL",
+      "label": "DETECTIVE MUG  /  UNEXPECTED DISCOVERY",
+      "cartoon": true,
+      "image": "07-studio.png",
+      "bubble": "WAIT. THE QR CODE ACTUALLY DOES SOMETHING?",
+      "narration": "The detective expected a punchline. Instead, the QR code opened a shareable case file. The joke had somehow become a useful label."
+    },
+    {
+      "title": "A MUG FILES A COMPLAINT",
+      "label": "DRAMATIC REENACTMENT  /  STOCK FOOTAGE",
+      "stock": "stock-mug.mp4",
+      "card": "THREE MEETINGS. ONE COLD COFFEE. ZERO RESPECT.",
+      "narration": "Even the office mug wanted its day in court. Its testimony had one urgent demand: rinse me."
+    },
+    {
+      "title": "THE MUG HAS A STATEMENT",
+      "label": "LIVE PREVIEW  /  NOT FILED",
+      "image": "09-live-preview.png",
+      "narration": "This office mug survived three meetings and one cold coffee. Its practical advice? Rinse the evidence before it dries."
+    },
+    {
+      "title": "THE MUG SEEKS DAMAGES",
+      "label": "ANIMATED REENACTMENT  /  SETTLEMENT PENDING",
+      "cartoon": true,
+      "image": "09-live-preview.png",
+      "bubble": "I DEMAND COMPENSATION. AND A SPONGE.",
+      "narration": "The mug demanded emotional damages. We offered a QR tag and a rinse instruction. It accepted, pending review by its lawyer, the teapot."
+    },
+    {
+      "title": "MEET THE OBJECT PASSPORT",
+      "label": "BORROW  /  RETURN  /  FIND",
+      "image": "04-passport.png",
+      "narration": "The Object Passport adds a status, approved check ins, a private finder note when something goes missing, and a small printable QR tag."
+    },
+    {
+      "title": "ASK THE OBJECT",
+      "label": "THE BORROWED UMBRELLA  /  FICTIONAL SAMPLE",
+      "image": "05-ask.png",
+      "narration": "Visitors can ask what happened, how to use it, and where it belongs. The answer can be read aloud. Silly enough to watch, useful enough to keep."
+    },
+    {
+      "title": "THE EVIDENCE IS LIVE",
+      "label": "WISPR FLOW HIRING CHALLENGE",
+      "image": "01-home.png",
+      "narration": "The evidence is live. Open a case file, then give an object on your desk its own. This is Hridya Jain's Wispr Flow hiring challenge build."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+__pycache__/
+.deps/
+*.pyc
+video/video-assets/narration.wav
+video/video-assets/*contact*.png
+video/video-assets/*sample*.mp3
